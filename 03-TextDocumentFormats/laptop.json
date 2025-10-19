@@ -1,0 +1,25 @@
+[
+{
+"brand": "Dell",
+"model": "Inspiron 15",
+"year": 2023,
+"isTouchscreen": false,
+"devices": ["touchpad","webcam"]
+},
+{
+"brand": "Lenovo",
+"model": "IdeaPad Slim 3",
+"year": 2024,
+"isTouchscreen": false,
+"devices": ["webcam","touchpad","microphone"]  
+},
+{
+"brand": "Apple",
+"model": "MacBook Air 13,6",
+"colour": "Gold",
+"screen": "2560x1664px",
+"RAM": "16 GB",
+"isTouchscreen": false,
+"accessories": ["headphones","compuer mouse"]
+}
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <car brand="Citroen" model="C5" yearOfProduction="2005">
+      <specs>
+         <engine unit="fuel">Diesel</engine>
+         <engineCapacity unit="cm^3">1997</engineCapacity>
+         <enginePower unit="KM">120</enginePower>
+         <length unit="m">4</length>
+         <mileAge unit="km">300,000</mileAge>
+      </specs>
+    </car>
+    <bus brand="MAN" line="192">
+      <specs>
+         <engine unit="fuel">Electric</engine>
+         <engineCapacity unit="l">360</engineCapacity>
+         <enginePower unit="KM">310</enginePower>
+         <length unit="m">3</length>
+      </specs>
+    </bus>
+    <scooter brand="KAMIKAZE" model="K1 Lite" yearOfProduction="2024">
+      <specs>
+        <enginePower unit="W">800</enginePower>
+        <range unit="km">60</range>
+        <maximumSpeed unit="km/h">20</maximumSpeed>
+        <maximumLoad unit="kg">120</maximumLoad>
+      </specs>
+    </scooter>
+</transport>
+   
+         
+          
+     
+      

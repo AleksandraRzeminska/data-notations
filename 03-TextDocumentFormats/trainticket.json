@@ -1,0 +1,14 @@
+{
+    "traveler": "Anna Kowalska",
+    "day": 10.11,
+    "from": "Cracow Main Station",
+    "destination": "Warsaw",
+    "train name": "MATEJKO 2003",
+    "departure time": 13.45,
+    "arrival time": 16.00,
+    "seat": [
+        "carriage 13",
+        "sit 56", 
+        "window"
+    ]
+}

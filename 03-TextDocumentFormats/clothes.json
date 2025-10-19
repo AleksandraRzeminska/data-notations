@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Sinsay",
+        "founded": 2013,
+        "headquarters": "Gdańsk, Poland",
+        "employees": 15050 ,
+        "products": [
+            "Sportswear",
+            "Accessories",
+            "Children Clothes"
+        ]
+    },
+    {
+        "name": "Oysho",
+        "founded": 2001,
+        "headquarters": "Barcelona, Spain",
+        "employees": 89000,
+        "products":[
+            "Underwear",
+            "Sportswear",
+            "Leisurewear"
+        ]
     }
 ]

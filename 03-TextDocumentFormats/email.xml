@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <emails>
- <aleksandrarzeminska@gmail.com>
-     <sender>Aleksandra Rzemińska</sender>
-     <recipient>Weronika Kowalska</recipient>
-        <subject>Business Analytics</subject>
+     <email>
+        <sender>Weronika Nowak</sender>
+        <recipient>Zofia Prodanowska</recipient>
+        <subject>English</subject>
+        <message>I did the task</message>
+     </email>
+         
