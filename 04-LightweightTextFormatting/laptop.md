@@ -26,4 +26,11 @@ In general, laptop components are not intended to be replaceable or upgradable b
 
 ## 4. List of the top three laptop manufacturers
 
+* Acer
+* Apple
+* Asus
+* Dell
+* Dynabook
+
+
 
