@@ -31,7 +31,7 @@
         </properties>   
         <formulas>
             <area>edge^3</area>
-            <perimeter>6 * edge</area>
+            <area>6 * edge</area>
         </formulas>  
     </figure>           
 
